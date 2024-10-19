@@ -7,7 +7,7 @@
 게임 프로그래밍
 <br>
 <br>
-사용 기술
+사용 기술<br>
 C++, C#, Java, Kotlin, Unity3D, Android Studio
 
 
