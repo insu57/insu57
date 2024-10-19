@@ -5,9 +5,10 @@
 모바일 프로그래밍
 <br>
 게임 프로그래밍
-
-
-
+<br>
+<br>
+사용 기술
+C++, C#, Java, Kotlin, Unity3D, Android Studio
 
 
 <!--
