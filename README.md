@@ -2,13 +2,14 @@
 
 관심분야
 <br>
-모바일 프로그래밍
+게임 프로그래머
 <br>
-게임 프로그래밍
+모바일 프로그래머
 <br>
 <br>
-사용 기술<br>
-C++, C#, Java, Kotlin, Unity3D, Android Studio
+사용 언어<br>
+C++, C#, Java, Kotlin<br>
+Unity3D, Android Studio
 
 
 <!--
