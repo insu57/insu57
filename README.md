@@ -2,7 +2,7 @@
 기술 스택
 ---
 C++, C#, Java, Kotlin<br>
-Unity3D, Android Studio
+Unity, Android Studio
 
 
 <!--
