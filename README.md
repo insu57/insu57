@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-관심분야
 <br>
-게임 프로그래머
-<br>
-모바일 프로그래머
+안녕하세요! 게임 프로그래머 여인수입니다.
 <br>
 <br>
-사용 언어<br>
+<br>
+기술 스택
+<br>
 C++, C#, Java, Kotlin<br>
 Unity3D, Android Studio
 
