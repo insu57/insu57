@@ -1,7 +1,6 @@
-## 안녕하세요! 게임 프로그래머 여인수입니다.
-<br>
+# 안녕하세요! 게임 프로그래머 여인수입니다.
 기술 스택
-<br>
+---
 C++, C#, Java, Kotlin<br>
 Unity3D, Android Studio
 
