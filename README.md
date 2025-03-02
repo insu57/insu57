@@ -1,4 +1,8 @@
 # 안녕하세요! 게임 프로그래머 여인수입니다.
+---
+E-Mail : insuyeo99@gmail.com
+
+
 기술 스택
 ---
 C++, C#, Java, Kotlin<br>
